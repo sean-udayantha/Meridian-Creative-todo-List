@@ -46,7 +46,7 @@ Ensure you have the following installed:
 
 #### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/Meridian-Creative-todo-List.git
+git clone https://github.com/sean-udayantha/Meridian-Creative-todo-List.git
 ```
 #### Create a .env file in frontend
 ```bash
